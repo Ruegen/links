@@ -14,6 +14,15 @@
 ## Terminal
 - [emma-cli](https://github.com/maticzav/emma-cli)
 
-
 ## Guides
 - [specs](http://www.betterspecs.org/)
+- [rails style guide](https://github.com/rubocop-hq/rails-style-guide)
+
+## Cheatsheets
+- [sequel](https://devhints.io/sequel)
+
+## React.js
+- [react docs](https://reactjs.org/docs/getting-started.html)
+
+## Vue.js
+- [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
